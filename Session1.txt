@@ -1,0 +1,63 @@
+Task-1. 
+List 5 daily actions you perform on apps like Instagram, Zomato, or Flipkart, and for each, 
+identify whether the data generated is numerical or categorical. 
+
+Solution: 
+Instagram 
+1) No of likes on a post – Numerical 
+2) Choosing a post category – Categorical 
+
+Zomato 
+3)  Giving a restaurant rating – Numerical 
+4) Selecting a food type - Categorical 
+
+Flipkart 
+5) Adding Product to cart - Categorical 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Task-2. 
+Given this sample data from a music app: ['Pop', 'Rock', 'Jazz', 'Hip-Hop', 'Pop', 'Rock', 'Jazz', 
+'Pop'], classify the type of data and explain your reasoning in 2-3 lines. 
+
+Solution: 
+This is categorical data,  because it represents different music 
+genres rather than measurable numerical quantities. The genres have names/categories, but 
+there is no meaningful numerical order between Pop, Rock, Jazz, and Hip-Hop. 
+
+
+
+-----------------------------------------------------------------------------------------------
+
+Task-3. 
+Pick any one feature from an app you use (such as the number of likes on an Instagram post, or 
+the rating of a restaurant on Zomato) and describe how statistics could help improve that 
+feature for users. 
+
+Solution: 
+Consider the number of likes on an Instagram post. Statistics can be used to calculate the 
+average number of likes and identify which types of posts receive the most engagement. 
+Instagram can then use this information to recommend more relevant content to users and help 
+creators understand what their audience actually prefers.
+
+
+-----------------------------------------------------------------------------------------------
+
+
+
+Task-4. 
+Suppose you are building a new playlist recommendation feature for a Spotify-like app. List 3 
+basic statistical terms (such as mean, median, mode, variance, etc.) that would be useful in 
+analyzing user listening data, and explain each with a one-line example. 
+
+Solution: 
+Useful Statistical Terms for Playlist Recommendations 
+1. Mean (Average): Finds the average listening time—for example, users may listen to 
+music for an average of 45 minutes per day. 
+2. Mode: Finds the most frequently listened-to genre—for example, if  rock is played most 
+often, the app can recommend more rock songs. 
+3. Variance: Measures how much listening behavior differs between users—for example, 
+some users may listen for 20 minutes while others listen for 3 hours, showing high 
+variance.
